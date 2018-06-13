@@ -3,13 +3,13 @@ highlighter: rouge
 permalink: /:categories/:title.html 
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "panxw"
-email: winfirm#163.com
+github: hosocongty
+author: "hosocongty"
+email: info@hosocongty.xyz
 name: "Panxw's Blog"
 baseurl: /
-url: http://www.panxw.com
-domain: www.panxw.com
+url: http://hosocongty.xyz
+domain: hosocongty.xyz
 
 all_categories: [
   ["android", "Android开发","/android/index.html"], 
@@ -31,9 +31,6 @@ index_layout: "index.html"
 category_layout: "_layouts/category.html"
 tag_layout: "_layouts/tag.html"
 
-#不使用gems库中的jekyll-paginate-category
-#使用基于jekyll-paginate改写的的栏目分页插件，所以jekyll-paginate还需要用上。
-#gems: [jekyll-paginate,jekyll-paginate-category]
 gems: [jekyll-paginate]
 
 collections:
@@ -41,4 +38,4 @@ collections:
     output: true
 
 copyright: []
-#timezone: Asia/Shanghai
+#timezone: Asia/Hanoi
