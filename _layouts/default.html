@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="{{ page.title }} - {{ site.name }} - 作者:{{ site.author }}"/> 
+    <meta name="description" content="{{ page.title }} - {{ site.name }} - Tác giả:{{ site.author }}"/> 
 	{% if page.tags.size > 0%}<meta name="keywords" content="{% for tag in page.tags %}{% if tag != "" %}{{ tag }}{% if forloop.index != page.tags.size %},{% endif %}{% endif %}{% endfor %}"/>{% endif %}
     <title>{{ page.title }} - {{ site.name }}</title>
     <!-- Bootstrap Core CSS -->
@@ -47,7 +47,7 @@
             </span>
           </button>
           <a class="navbar-brand" href="/">
-            首页
+            Trang chủ
           </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -70,7 +70,7 @@
           <!-- Side Widget Well -->
           <div class="well">
             <h4>
-              推荐链接
+              Liên kết được đề xuất
             </h4>
 			      <div class="row">
             {% include recommend_link.html %} 
@@ -85,7 +85,7 @@
 		      <!-- Blog Recent Well -->
           <div class="well">
             <h4>
-              最新文章
+              Bài viết mới nhất
             </h4>
             <div class="row">
                     {% include recent_posts.html %} 
