@@ -58,7 +58,7 @@
             </span>
           </button>
           <a class="navbar-brand" href="/">
-            首页
+            Trang chủ
           </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -77,9 +77,9 @@
           <!-- Navi -->
           <div class="post_frame">
             <div class="post_navi">
-              <a href="/">首页</a>&nbsp;>&nbsp;
+              <a href="/">Trang chủ</a>&nbsp;>&nbsp;
               <a href="{{ catgory_link }}">{{ category_name }}</a>&nbsp;>&nbsp;
-              <span class="post_navi_span">列表</span>
+              <span class="post_navi_span">Danh sách</span>
             </div>
             <div style="padding:10px">
 <!-- Loop output paged posts -->
@@ -96,7 +96,7 @@
 </h2>
 <hr>
 {{ post.excerpt }}
-	<p><h3><a href="{{ post.url }}">阅读全文 &raquo;</a></h3></p>
+	<p><h3><a href="{{ post.url }}">Đọc thêm &raquo;</a></h3></p>
 <hr>
 {% endfor %}
 
@@ -155,7 +155,7 @@
           <!-- Side Widget Well -->
           <div class="well">
             <h4>
-              推荐链接
+              Liên kết được đề xuất
             </h4>
 			      <div class="row">
             {% include recommend_link.html %} 
@@ -170,7 +170,7 @@
 		     <!-- Blog Recent Well -->
           <div class="well">
             <h4>
-              最新文章
+              Bài viết mới nhất
             </h4>
             <div class="row">
                     {% include recent_posts.html %} 
