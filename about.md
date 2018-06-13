@@ -1,40 +1,13 @@
 ---
 layout: page
-title: "关于"
+title: "Giới thiệu"
 ---
-## 博客主题
-- **探索尝试，发现未知可能！**  
+## Website đang được vận hành và phát triển nội dung bởi người sáng lập Mr Good và các đồng sự.
 
+Mục tiêu hoạt động
+Chúng tôi cung cấp hoàn toàn MIỄN PHÍ các khóa học hữu ích cho mọi người, chia sẻ các kiến thức từ cơ bản đến chuyên sâu… với phương thức học thông qua các video và bài viết có sẵn trên website của chúng tôi.
+Chúng tôi cung cấp các bài viết, các chia sẻ liên quan đến việc định hướng, mục tiêu để cho các bạn có cái nhìn tổng thể để lựa chọn cho mình hướng đi tốt nhất trong tương lai.
+Chúng tôi sẽ cung cấp cho các bạn về các bài viết, các phân tích về xu hướng, chiến lược phát triển công nghệ để các bạn có một cách nhìn tổng quan về ngành CNTT hiện nay.
+Bên cạnh đó chúng tôi sẽ cung cấp cho các bạn về tin tức, các bài viết, các bài Review phân tích về xu hướng đầu tư Cryptocurrency, tiền kỹ thuật số, tiền điện tử, các ICO tiềm năng hay việc Hold các đồng coin tiềm năng hiện nay.
+Mục tiêu chính của oktot.com được lập ra là để đào tạo, chia sẻ các thông tin, các kiến thức… Đồng thời website luôn hoan nghênh và đón nhận các đóng góp của những thành viên để cung cấp bài viết đa dạng hơn.
 
-## 1.说明
-- 本博客基于Jekyll工具构建，模板代码公开。[(源码)](https://github.com/panxw/panxw.github.com)  
-- 模板代码可任意使用，但请保留本站**友情链接**。  
-- 本站名称：Panxw's Blog  
-- 本站网址：https://www.panxw.com  
-
-
-## 2.个人信息
-- Panxw，80后，男，武汉，2011年起从事Android开发至今。
-- 另熟悉IOS/React Native/Node.js等开发技术。  
-- 欢迎技术交流。  
-
-
-## 3.联系方式
-- Github: panxw  
-- Email: winfirm(at)163.com, qq: 85902258  
-- QQ交流群: 168563980  
-
-
-## 4.赞助
-- 如果本站内容帮助到了你，请记得收藏、分享，或打赏支持，谢谢！！  
-
-支付宝:  
-<div style="width:220px">
-    <img width="220" height="220" src="/images/donate_alipay.jpg"/>
-</div>
-微信:  
-<div style="width:220px">
-    <img width="220" height="220" src="/images/donate_weixin.jpg"/>
-</div>
-
-google cloud!
