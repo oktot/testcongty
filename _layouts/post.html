@@ -8,9 +8,9 @@ layout: default
 <div  class="post_frame">
 <!-- Navi -->
 <div class="post_navi">
-	<a href="/">首页</a>&nbsp;>&nbsp;
+	<a href="/">Trang chủ</a>&nbsp;>&nbsp;
 	<a href="{{ category_link }}">{{ category_name }}</a>&nbsp;>&nbsp;
-	<span class="post_navi_span">正文</span>
+	<span class="post_navi_span">Văn bản</span>
 </div>
 
 <!-- Title -->
@@ -18,10 +18,9 @@ layout: default
 	<h1>{{ page.title }}</h1>
 	<hr class="hrline"/>
 	<div class="post_titledate"/>
-		https://www.panxw.com&nbsp;&nbsp;&nbsp;
-		栏目：<a href="{{ category_link }}">{{ category_name }}</a>&nbsp;&nbsp;&nbsp;
+		Dach sách bài viết：<a href="{{ category_link }}">{{ category_name }}</a>&nbsp;&nbsp;&nbsp;
 		{% if page.tags.size > 0%}
-			标签：{% for tag in page.tags %}
+			Thẻ：{% for tag in page.tags %}
 					{% if tag != "" %}
 					<a href="/tag/{{ tag }}.html">{{ tag }}</a>
 					{% if forloop.index != page.tags.size %},
@@ -29,8 +28,8 @@ layout: default
 					{% endif %}
 				 {% endfor %}
 		{% endif %}&nbsp;&nbsp;&nbsp;
-		日期：{{ page.date | date:"%Y-%m-%d" }}&nbsp;&nbsp;&nbsp;
-		<span id="busuanzi_container_page_pv">阅读：<span id="busuanzi_value_page_pv"></span></span>
+		Ngày：{{ page.date | date:"%Y-%m-%d" }}&nbsp;&nbsp;&nbsp;
+		<span id="busuanzi_container_page_pv">Đọc：<span id="busuanzi_value_page_pv"></span></span>
 	</div>
 </div>
 
@@ -47,23 +46,23 @@ layout: default
 
 <div style="text-align:center">
 	<div>
-		<b>本文为原创文章，转载请注明出处：</b><a href="https://www.panxw.com">Panxw's Blog</a> » <a href="{{site.url}}{{page.url}}" title="{{page.name}}">{{ page.title }}</a>
+		<b>Bài viết này là bài viết gốc, sao chép xin dẫn nguồn：</b>» <a href="{{site.url}}{{page.url}}" title="{{page.name}}">{{ page.title }}</a>
 	</div>
 	<div class="friend_alert">
-		如果本站内容帮助到了你，请记得收藏、分享，或打赏支持，谢谢！
+		Nếu nội dung của trang web này hữu ích, hãy nhớ chia sẻ hoặc gởi đến nhiều người khác, cảm ơn bạn！
 	</div>
 	<div id="donate_div" class="donate_block">
 		<div class="donate_block_left">
 			<img src="/images/donate_alipay.jpg" class="donate_block_image"/><br/>
-			<div class="donate_block_title">支付宝</div>
+			<div class="donate_block_title">Donate</div>
 		</div>
 		<div class="donate_block_right">
 			<img src="/images/donate_weixin.jpg" class="donate_block_image"/><br/>
-			<div class="donate_block_title">微信</div>
+			<div class="donate_block_title">Donate</div>
 		</div>
 	</div>
 	<div class="donate_button">
-		<a onclick="donate()">打赏</a>
+		<a onclick="donate()">Donate</a>
 	</div>
 </div>
 <hr/>
@@ -72,7 +71,7 @@ layout: default
 <div style="margin:10px">
   <span class="next">
 		{% if prevpost %}
-    上篇：
+    Tiếp theo：
     <a href="{{prevpost.url}}">
       {{prevpost.title}}
     </a>
@@ -86,7 +85,7 @@ layout: default
   <div style="float:right">
   <span class="prev" >
 		{% if nextpost %}
-    下篇：
+    Tiếp theo：
     <a href="{{nextpost.url}}">
       {{nextpost.title}}
     </a>
