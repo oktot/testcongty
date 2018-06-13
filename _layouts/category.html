@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="{{ page.description }} - {{ site.name }}" />
 
-    <title>栏目：{{ category_name }} - {{ site.name }}</title>
+    <title>Row：{{ category_name }} - {{ site.name }}</title>
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"/>
     <!-- Custom CSS -->
@@ -176,7 +176,13 @@
                     {% include recent_posts.html %} 
             </div>
           </div>		  
-
+	 <!-- Blog Links Well -->
+		<h4>
+              Nhà tài trợ
+            </h4>
+          <div class="well">
+            {% include friendlinks.html %} 
+          </div>
         </div>
       </div>
       <!-- /.row -->
