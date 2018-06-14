@@ -1,9 +1,12 @@
----
-published: true
-hidden: false
+﻿---
+layout: post
 title: Công dụng chữa bệnh “thần kỳ” của mộc nhĩ không phải ai cũng biết
-image: mocnhi.png
-custom_excerpt: Ăn mộc nhĩ sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
+date: 2018-07-06 00:01:01
+category: web
+tags: [nấm tai mèo, mộc nhĩ, bí quyết sức khỏe]
+---
+Ăn mộc nhĩ sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim. <!-- more -->
+
 ---
 
 Nấm mèo còn gọi là nấm tai mèo, mộc nhĩ, có tên khoa học là Auricularia auricula, thường mọc trên cây gỗ mục ẩm ướt, hình nấm giống tai người vì vậy gọi là mộc nhĩ (tai của gỗ).

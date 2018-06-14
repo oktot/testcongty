@@ -1,9 +1,12 @@
----
-published: true
-hidden: false
+﻿---
+layout: post
 title: 7 Lợi Ích Tuyệt Vời Của Vỏ Chanh Mà Ít Người Biết Tới
-image: vo-chanh.jpg
-custom_excerpt: Chanh là một loại gia vị phổ biến được yêu thích trên khắp thế giới. Nhưng bạn có biết, chanh còn là một trong những loại thực phẩm mà bạn có thể sử dụng từng thành phần của nó – từ thịt đến vỏ.
+date: 2018-07-06 00:01:01
+category: web
+tags: [7 Lợi Ích Tuyệt Vời Của Vỏ Chanh, bí quyết sức khỏe]
+---
+Chanh là một loại gia vị phổ biến được yêu thích trên khắp thế giới. Nhưng bạn có biết, chanh còn là một trong những loại thực phẩm mà bạn có thể sử dụng từng thành phần của nó – từ thịt đến vỏ. <!-- more -->
+
 ---
 
 Vỏ chanh chứa nhiều Vitamin, khoáng chất và chất xơ giúp tăng cường dinh dưỡng. Trong thực tế, so với nước chanh, vỏ có nhiều Vitamin A và C, Beta-caroten, Folate, Canxi, Magiê và Kali.

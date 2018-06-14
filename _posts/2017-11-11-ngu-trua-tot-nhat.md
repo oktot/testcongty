@@ -1,9 +1,12 @@
----
-published: true
-hidden: false
+﻿---
+layout: post
 title: Chuyên gia hướng dẫn cách ngủ trưa tốt nhất để chăm sóc gan Ai cũng nên áp dụng sớm!
-image: 11-11-3.jpg
-custom_excerpt: Gan khỏe hay yếu nhờ vào giấc ngủ. Vì khi ngủ gan sẽ được tái tạo và phục hồi. Ngoài việc đi ngủ sớm, giấc ngủ trưa vô cùng quan trọng.
+date: 2017-07-06 00:01:01
+category: web
+tags: [cách ngủ trưa tốt nhất, bí quyết sức khỏe]
+---
+Gan khỏe hay yếu nhờ vào giấc ngủ. Vì khi ngủ gan sẽ được tái tạo và phục hồi. Ngoài việc đi ngủ sớm, giấc ngủ trưa vô cùng quan trọng. <!-- more -->
+
 ---
 
 Gan khỏe hay yếu nhờ vào giấc ngủ. Vì khi ngủ gan sẽ được tái tạo và phục hồi. Ngoài việc đi ngủ sớm, giấc ngủ trưa vô cùng quan trọng.

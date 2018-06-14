@@ -1,9 +1,11 @@
----
-published: true
-hidden: false
+﻿---
+layout: post
 title: Làm Thế Nào Trị Mụn Mọc Trên Da Đầu Nhanh Nhất
-image: 11-10-1.jpg
-custom_excerpt: Mụn trứng cá có thể xuất hiện trên da đầu tương tự như trên mặt hay các vực khác của cơ thể. Mụn mọc trên đầu quả thực gây khó chịu cho rất nhiều người.
+date: 2018-07-06 00:01:01
+category: web
+tags: [Mụn trứng cá, bí quyết sức khỏe]
+---
+Mụn trứng cá có thể xuất hiện trên da đầu tương tự như trên mặt hay các vực khác của cơ thể. Mụn mọc trên đầu quả thực gây khó chịu cho rất nhiều người. <!-- more -->
 ---
 
 Cũng giống như các phần còn lại của cơ thể, da đầu có các lỗ chân lông tiết ra dầu (chất bã nhờn) trên bề mặt. Khi các vi khuẩn đã có sẵn trên da đầu kết hợp với các tế bào da chết và chất bã nhờn, các lỗ chân lông bị tắc nghẽn, dẫn tới sự bùng nổ của mụn.

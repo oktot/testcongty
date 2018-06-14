@@ -1,9 +1,12 @@
----
-published: true
-hidden: false
+﻿---
+layout: post
 title: Ăn quá nhiều trái cây cũng không tốt, nhưng 5 loại quả này được khuyên nên ăn thường xuyên
-image: 11-11-1.png
-custom_excerpt: Nhiều người không thích ăn trái cây, hoặc sợ ăn trái cây sẽ làm tăng cân. Nhưng với 5 loại trái cây này, bạn có thể ăn quanh năm suốt tháng vì những tác dụng trên cả tuyệt vời.
+date: 2017-07-06 00:01:01
+category: web
+tags: [5 loại quả cực tốt, trái cây, bí quyết sức khỏe]
+---
+Nhiều người không thích ăn trái cây, hoặc sợ ăn trái cây sẽ làm tăng cân. Nhưng với 5 loại trái cây này, bạn có thể ăn quanh năm suốt tháng vì những tác dụng trên cả tuyệt vời. <!-- more -->
+
 ---
 
 Thường xuyên ăn hoa quả là một thói quen tuyệt vời mà ai cũng nên tập cho mình, đặc biệt là việc bố mẹ rèn cho con cái sở thích ăn hoa quả đều đặn mỗi ngày.
