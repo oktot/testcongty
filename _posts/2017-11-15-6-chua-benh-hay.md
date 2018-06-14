@@ -1,7 +1,12 @@
----
-published: true
+﻿---
+layout: post
 title: Cách chữa 6 loại bệnh tật bằng mẹo rất hay
-custom_excerpt: Giữa môi dưới rồi kéo thẳng xuống ụ cằm (hình thành một dấu hỏi lớn chiếm 3/4 quanh miệng). Nhớ lăn từ phải qua trái mới nhuận tràng, hết táo bón. Ngược lại lăn từ trái qua phải, sẽ càng táo bón hơn đấy!
+date: 2017-07-06 00:01:01
+category: web
+tags: [Bong gân, trật khớp cổ tay,bí quyết sức khỏe]
+---
+Giữa môi dưới rồi kéo thẳng xuống ụ cằm (hình thành một dấu hỏi lớn chiếm 3/4 quanh miệng). Nhớ lăn từ phải qua trái mới nhuận tràng, hết táo bón. Ngược lại lăn từ trái qua phải, sẽ càng táo bón hơn đấy! <!-- more -->
+
 ---
 
 1. Bong gân, trật khớp cổ tay:

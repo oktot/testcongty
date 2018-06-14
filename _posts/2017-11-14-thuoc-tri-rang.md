@@ -1,6 +1,12 @@
----
-published: true
+﻿---
+layout: post
 title: Bài thuốc quá dễ trị răng lung lay ê buốt, tới già răng vẫn không rụng
+date: 2017-07-06 00:01:01
+category: web
+tags: [Đau răng, sâu răng, bí quyết sức khỏe]
+---
+Đau răng, sâu răng hoặc răng lung lay, ê buốt là nỗi khổ của hầu hết mọi người ở đủ mọi độ tuổi. Vì thế, mọi nhà nên chuẩn bị hũ rượu này để xử lí các vấn đề về răng ngay tại nhà. <!-- more -->
+
 ---
 
 Đau răng, sâu răng hoặc răng lung lay, ê buốt là nỗi khổ của hầu hết mọi người ở đủ mọi độ tuổi. Vì thế, mọi nhà nên chuẩn bị hũ rượu này để xử lí các vấn đề về răng ngay tại nhà.

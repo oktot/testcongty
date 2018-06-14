@@ -1,7 +1,12 @@
----
+﻿---
 layout: post
-title:  Cách Làm Mặt Nạ Dâu Tây Giúp Da Trắng Mịn
-custom_excerpt: Trong mặt nạ dâu tây này bao gồm nước ép chanh, sữa chua và mật ong. Nước chanh tuyệt vời để duy trì làn da mềm mại và mịn màng. Do hàm lượng cao Axit Citric, nó có tác dụng làm sáng da tự nhiên.
+title: Cách Làm Mặt Nạ Dâu Tây Giúp Da Trắng Mịn
+date: 2018-05-06 00:01:01
+category: web
+tags: [Mặt Nạ Dâu Tây, bí quyết sức khỏe]
+---
+Trong mặt nạ dâu tây này bao gồm nước ép chanh, sữa chua và mật ong. Nước chanh tuyệt vời để duy trì làn da mềm mại và mịn màng. Do hàm lượng cao Axit Citric, nó có tác dụng làm sáng da tự nhiên.<!-- more -->
+
 ---
 
 Dâu tây đặc biệt tốt cho da nhờn và da mụn vì nó giúp loại bỏ bã nhờn dư thừa. Nó cũng hoạt động như một “skin toner” tuyệt vời nhờ tính chất làm se.

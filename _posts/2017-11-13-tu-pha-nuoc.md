@@ -1,8 +1,12 @@
----
-published: true
-hidden: false
+﻿---
+layout: post
 title: Tự pha nước uống buổi sáng giúp đánh bay BỤNG BIA lâu năm
-custom_excerpt: Bụng là vùng dễ tích mỡ nhất và cũng là bộ phận ít hoạt động nhất của cơ thể. Chính bởi vậy khi béo, bụng thường tăng size đầu tiên. Các nguyên nhân gây béo bụng rất đa dạng nhưng chủ yếu do chế độ ăn không hợp lý, ăn quá nhiều tinh bột và đường, lười vận động, phụ nữ sau sinh nở…
+date: 2017-07-06 00:01:01
+category: web
+tags: [mỡ bụng, béo bụng, bí quyết sức khỏe]
+---
+Bụng là vùng dễ tích mỡ nhất và cũng là bộ phận ít hoạt động nhất của cơ thể. Chính bởi vậy khi béo, bụng thường tăng size đầu tiên. Các nguyên nhân gây béo bụng rất đa dạng nhưng chủ yếu do chế độ ăn không hợp lý, ăn quá nhiều tinh bột và đường, lười vận động, phụ nữ sau sinh nở… <!-- more -->
+
 ---
 Không mời mà đến, nhưng đuổi không chịu đi, mỡ bụng tích tụ lâu năm rất khó loại bỏ, bởi theo thời gian, mô mỡ sẽ tích tụ dày lên, tạo thành màng bám mỡ nên bụng cũng to lên. Các liên kết mỡ nằm sâu gắn chặt với nhau.
 
