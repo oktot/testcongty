@@ -7,6 +7,7 @@ tags: [giảm béo, giảm cân, bí quyết giảm cân, bí quyết sức kh�
 ---
 Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục. Nhiều người cho biết dù có có tập thể dục nhiều thế nào, họ vẫn không thể giảm béo mặt được, đặc biệt là đám mỡ thừa đáng ghét trên má làm khuôn mặt trở nên <!-- more -->
 ---
+
 Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục. Nhiều người cho biết dù có có tập thể dục nhiều thế nào, họ vẫn không thể giảm béo mặt được, đặc biệt là đám mỡ thừa đáng ghét trên má làm khuôn mặt trở nên phúng phính, tròn trịa.
 
 Một vài người có cơ địa rất dễ bị béo mặt. Có nhiều nguyên nhân gây ra béo mặt, có thể là do gen làm cho mỡ thường tập trung trên mặt thay vì những vùng cơ thể khác.
