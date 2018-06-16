@@ -12,7 +12,7 @@ url: http://hosocongty.xyz
 domain: hosocongty.xyz
 
 all_categories: [
-  ["read", "read","/read/index.html"], 
+  ["read", "read","/web/index.html"], 
   ["about", "about","/about.html"]
 ]
 
