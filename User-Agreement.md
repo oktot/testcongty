@@ -1,8 +1,6 @@
-﻿---
+---
 layout: page
 title: "User Agreement"
-meta: Quy định sử dụng User Agreement
-keywords: Quy định sử dụng User Agreement
 ---
 
 # User Agreement
