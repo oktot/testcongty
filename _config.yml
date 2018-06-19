@@ -12,8 +12,10 @@ url: http://hosocongty.xyz
 domain: hosocongty.xyz
 
 all_categories: [
-  ["read", "read","/web/index.html"], 
-  ["about", "about","/about.html"]
+  ["Read", "Read","/web/index.html"], 
+  ["About", "About","/about.html"],
+  ["User Agreement", "User Agreement","/User-Agreement.html"], 
+  ["Privacy Policy", "Privacy Policy","/Privacy-Policy.html"]
 ]
 
 paginate: 10 
