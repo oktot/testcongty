@@ -2,11 +2,7 @@
 layout: page
 title: "Privacy Policy"
 ---
-
-# Privacy Policy
-
-
- <p align="justify" class="content"><a href="javascript:void(0)" onclick="history.go(-1);;return false">Go Back to Previous Page</a></p>
+<p align="justify" class="content"><a href="javascript:void(0)" onclick="history.go(-1);;return false">Go Back to Previous Page</a></p>
           <p align="justify" class="content">Thank you for visiting <strong>nihonne</strong>.   This privacy policy is about how we use personal information collected at this   site. Please read this privacy policy before using this site or submitting any   personal information. By using the site, you are accepting the practices   described below. These practices may be changed, but all changes will be posted   and only apply to activities and information on a going forward, not retroactive   basis. You are encouraged to review our privacy policy whenever you visit   nihonne to make sure that you fully understand how your personal information,   if any is collected, will be used.</p>
 <p align="justify" class="content"><span class="explanation">Note: </span>the privacy practices   set forth in this privacy policy apply to nihonne only. If you link to other   web sites, please review the privacy policies posted at those sites.</p>
           <p align="justify" class="content"><span class="explanation">Collection of   Information&nbsp;</span><strong><br>
