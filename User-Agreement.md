@@ -3,8 +3,6 @@ layout: page
 title: "User Agreement"
 ---
 
-# User Agreement
-
 ## Legal Disclaimer
 
 Midorishop has prepared the content of this website responsibly and carefully, but disclaims all warranties, express or implied, as to the accuracy of the information contained in any of the materials on this website, other linked websites or any subsequent links.
