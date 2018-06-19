@@ -1,11 +1,6 @@
-﻿---
+---
 layout: page
 title: "Privacy Policy"
-
-meta: Quy định tổng hợp Privacy Policy
-keywords: Quy định tổng hợp Privacy Policy
-
-
 ---
 
 # Privacy Policy
